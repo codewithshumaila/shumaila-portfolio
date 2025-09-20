@@ -5,20 +5,20 @@ function Projects() {
     {
       title: "Calculator",
       description: "A simple and responsive calculator built with HTML, CSS, and JavaScript.",
-      link: "#", 
-      image: "https://via.placeholder.com/300x200?text=Calculator"
+      link: "https://calculator-theta-dusky.vercel.app/", 
+      image: "./src/assets/Calculator.png"
     },
     {
       title: "Chari Team Website Assignment",
       description: "A team project website built as an assignment to demonstrate collaborative web development.",
       link: "#",
-      image: "https://via.placeholder.com/300x200?text=Chari+Team+Website"
+      image: "https://images.unsplash.com/photo-1554306274-f23873d9a26c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cHJvamVjdHMlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3D"
     },
     {
       title: "Book Library Store Assignment",
       description: "An assignment project to create an online book library store using React and JavaScript.",
       link: "#",
-      image: "https://via.placeholder.com/300x200?text=Book+Library+Store"
+      image: "https://images.unsplash.com/photo-1554306274-f23873d9a26c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cHJvamVjdHMlMjBkZXZlbG9wZXJ8ZW58MHx8MHx8fDA%3D"
     }
   ];
 
