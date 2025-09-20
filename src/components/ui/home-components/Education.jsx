@@ -6,7 +6,7 @@ function Education() {
   <h2 class="text-5xl font-extrabold text-indigo-400 text-center mb-16 mt-19 mr-50">
     Education
   </h2>
-  <div class="container px-5 py-10 mx-auto flex flex-wrap ml-40">
+  <div class="container px-5 py-10 mx-auto flex flex-wrap">
 
     <div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
       <div class="h-full w-6 absolute inset-0 flex items-center justify-center">
